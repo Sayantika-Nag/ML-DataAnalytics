@@ -1,0 +1,24 @@
+Dataset: Wisconsin Breast Cancer Diagnostic (WBCD)
+
+Exploratory Data Analysis (EDA):
+                        Descriptive statistics analysis
+                        Class distribution analysis
+                        Feature distribution analysis
+                        Variance and scale analysis
+
+Phase 1: Supervised Learning Methods - Implemented from Scratch
+                        Decision Tree Classifier (Information Gain) 
+                        Gaussian Naive Bayes
+                        Stratified k-Fold Cross-Validation (k = 10)
+                        Singular Value Decomposition (SVD)
+                        Randomization-Based Feature Selection
+                        Synthetic Minority Over-sampling Technique (SMOTE)
+                        F1 Score Evaluation Metric
+
+Phase 2: Unsupervised Learning Methods - Implemented from Scratch
+                        k-Means Clustering (Lloyd’s Algorithm)
+                        k-Means++ Initialization
+                        DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+                        Unnormalized Spectral Clustering (Gaussian Similarity Kernel)
+                        Isolation Forest (Anomaly Detection)
+                        Silhouette Coefficient (Clustering Evaluation Metric)
