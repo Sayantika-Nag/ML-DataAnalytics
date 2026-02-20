@@ -1,10 +1,10 @@
 This Repository contains the individual class projects I did on
 
 # Data Mining
-* Class Project
-* HW 1
-* HW 2
-* HW3
+* [Class Project]
+* [HW 1]
+* [HW 2]
+* [HW3]
 
 # Data Analytics
 
