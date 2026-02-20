@@ -1,10 +1,10 @@
 This Repository contains the individual class projects I did on
 
 # Data Mining
-* [Class Project]
-* [HW 1]
-* [HW 2]
-* [HW3]
+* [Class Project](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/d532a683440ee9dbd08cfad1167941644cde8ba0/Class%20Project)
+* [HW 1](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/1d1e62ece7cd00a775cc86232453ec6868530099/HW%201)
+* [HW 2](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/1d1e62ece7cd00a775cc86232453ec6868530099/HW%202)
+* [HW3](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/1d1e62ece7cd00a775cc86232453ec6868530099/HW3)
 
 # Data Analytics
 
